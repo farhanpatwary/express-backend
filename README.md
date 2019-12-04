@@ -1,5 +1,5 @@
 # Express Backend
-This is a Express.js Backend template, it contains most of the boilerplate code to start an Express.js Project.
+This is a Express.js Backend template, it contains most of the boilerplate code to start an Express.js Project.  
 It allows for User Authentication using JSON Web tokens. 
 ## Usage
 To use this, clone or download and create a .env file as such:
