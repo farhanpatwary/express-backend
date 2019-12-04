@@ -3,7 +3,8 @@ This is a Express.js Backend template, it contains most of the boilerplate code 
 It allows for User Authentication using JSON Web tokens. 
 ## Usage
 To use this, clone or download and create a .env file as such:
-```PORT=8000
+```
+PORT=
 DB_URL=
 DB_URL_TEST=
 SECRET=
